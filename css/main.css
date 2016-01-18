@@ -1,5 +1,6 @@
 body{
     font-family: 'Abril Fatface','Raleway','Fontin' sans-serif;
+    background: aliceblue;
 }
 h1{
    font-size:64px; 
@@ -25,12 +26,19 @@ h1{
 }
 .second{
     margin-top: 690px;
+    position: relative;
+    height: -50px;
 }
 .second h1, 
 .second p{
     line-height: 30px;
     color: #383838;
 }
-.third{
-    margin-top: 
+.third h1{
+    z-index: 3;
+    position: relative;
+    text-align: center;
+    color: white;
+    line-height: 85px;
+    margin-top: -320px;
 }
