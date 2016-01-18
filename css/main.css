@@ -34,6 +34,10 @@ h1{
     line-height: 30px;
     color: #383838;
 }
+.third{
+    position: relative;
+    margin-top: -150px;
+}
 .third h1{
     z-index: 3;
     position: relative;
@@ -51,11 +55,21 @@ h1{
     text-align: center;
 }
 .fourth{
+    margin-top: 50px;
+    margin-bottom: 22px;
     color: #383838;
     position: relative;
-    margin-top: 1050px;
+    margin-top: 1250px;
+    text-align: center;
+}
+h1{
     text-align: center;
 }
 .fifth{
-    text-align: center;
+    position: relative;
+    margin-top: 280px;
+}
+.sixth{
+    background-image: url("c_image.jpg");
+    background-repeat: no-repeat;
 }
