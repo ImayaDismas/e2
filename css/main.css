@@ -42,3 +42,20 @@ h1{
     line-height: 85px;
     margin-top: -320px;
 }
+.four h3{
+    color: #383838;
+    text-align: center;
+}
+.four p{
+    color: #383838;
+    text-align: center;
+}
+.fourth{
+    color: #383838;
+    position: relative;
+    margin-top: 1050px;
+    text-align: center;
+}
+.fifth{
+    text-align: center;
+}
