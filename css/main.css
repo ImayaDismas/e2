@@ -7,6 +7,9 @@ h1{
      position: relative;
    font-size:64px; 
 }
+.button{
+    margin-left: 85%;
+}
 .index{
     z-index: 1;
     position: relative;
