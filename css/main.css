@@ -8,7 +8,8 @@ h1{
    font-size:64px; 
 }
 .button{
-    margin-left: 85%;
+    background-color: aqua;
+    margin-left: 50%;
 }
 .index{
     z-index: 1;
