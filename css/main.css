@@ -84,6 +84,9 @@ h1{
     position: relative;
     margin-top: 280px;
 }
+.fifth h1{
+    text-align: center;
+}
 .sixth{
     position: relative;
     margin-top: 560px;
